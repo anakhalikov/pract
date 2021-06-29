@@ -4,5 +4,7 @@ public class HelloWord {
 
         System.out.println("Hello word");
 
+        System.out.println("hello");
+
     }
 }
